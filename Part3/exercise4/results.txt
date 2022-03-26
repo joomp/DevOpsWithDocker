@@ -1,0 +1,8 @@
+Changes: Merged RUN commands
+
+Before:
+  frontend: 1.21GB
+  backend: 1.07GB
+After:
+  frontend: 1.21GB
+  backend: 1.07GB

@@ -1,0 +1,4 @@
+Before
+  backend: 447MB
+FROM scratch
+  backend: 18MB

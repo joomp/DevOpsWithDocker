@@ -1,0 +1,4 @@
+Without multi-stage build
+  frontend: 418MB
+With multi-stage build:
+  frontend: 121MB

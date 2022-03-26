@@ -1,2 +1,4 @@
 # DevOpsWithDocker
-For Dev Ops with Docker course
+My submissions for DevOps with Docker MOOC
+
+https://devopswithdocker.com/

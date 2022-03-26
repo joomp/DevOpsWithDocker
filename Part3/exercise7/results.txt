@@ -1,0 +1,3 @@
+Dockerfile for spring-example-project
+Original image size: 612MB
+Current image size: 103MB

@@ -1,0 +1,6 @@
+From node:16.14 & FROM golang:1.16:
+  frontend: 1.21GB
+  backend: 1.07GB
+From node:16.14-alpine & FROM golang:1.16-alpine:
+  frontend: 418MB
+  backend: 447M
